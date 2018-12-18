@@ -26,3 +26,8 @@ h5{
 h6{
     font-size: 1em;
 }
+
+p {
+    font-family: fantasy;
+    font-size: .6em;
+}
