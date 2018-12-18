@@ -1,3 +1,4 @@
-function sayHello() {
-	console.log('Hello there !');
+function test()
+{
+	alert("test");
 }
